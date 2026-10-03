@@ -6,9 +6,7 @@ Lumaya is a full-stack AI companion app: a chat-based emotional support experien
 
 ## Demo
 
-[![Lumaya demo — click to watch the full video with sound](media/demo.gif)](media/demo.mp4)
-
-▶️ [Watch the full 21-second video with sound](media/demo.mp4)
+https://github.com/user-attachments/assets/ca1663ec-ca27-4c5b-90e9-d77a68fd5429
 
 ## Features
 
