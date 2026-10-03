@@ -4,6 +4,12 @@ Lumaya is a full-stack AI companion app: a chat-based emotional support experien
 
 > Internally this project is still named `wallet-monitor` in `package.json` — it started life as a crypto wallet tracker and was pivoted into Lumaya. The name hasn't been updated yet.
 
+## Demo
+
+[![Lumaya demo — click to watch the full video with sound](media/demo.gif)](media/demo.mp4)
+
+▶️ [Watch the full 21-second video with sound](media/demo.mp4)
+
 ## Features
 
 - **AI chat companion** — conversational support powered by Google Gemini, grounded with a Pinecone vector store for context-aware responses
